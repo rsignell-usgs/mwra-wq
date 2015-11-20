@@ -1,2 +1,2 @@
 # MWRA-WQ
-MWRA Water Quality Simulations using FVCOM 
+Documentation and demonstration of the MWRA Water Quality Simulation FVCOM output data aggregations 
